@@ -2,5 +2,10 @@
 1/2 onion
 1 clove of garlic
 1 lime
+<<<<<<< HEAD
 2 tsp salt
 2 tbps cilantro
+=======
+1 tsp salt
+
+>>>>>>> less-salt
